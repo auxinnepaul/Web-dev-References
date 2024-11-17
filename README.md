@@ -26,6 +26,7 @@
 - [float-ui](https://floatui.com/)
 - [background](https://bg.ibelick.com/)
 - [preline](https://preline.co/)
+- [react-hook-form](https://react-hook-form.com/)
   
 ## AI and code Generations
 - [V0](https://v0.dev/)
@@ -62,10 +63,16 @@
 - [supabase](https://supabase.com/)
 
 ## Learn Typing   
-- [fast fingers](https://10fastfingers.com/)
+- [fast-fingers](https://10fastfingers.com/)
 
-  
-## More Libs and Components
+## Mobile App Development
+- [react-native](https://reactnative.dev/)
+- [react-native-reusables](https://rnr-docs.vercel.app/)
+- [nativewind-ui](https://nativewindui.com/)
+- [native-wind](https://www.nativewind.dev/)
+
+# More Libs and Components
+## Shipped from  [gihhub](https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file)
 - [aceternity-ui](https://ui.aceternity.com/) - Copy paste the most trending react components without having to worry about styling and animations.
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat.
 - [autocomplete-select-shadcn-ui](https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui) - Autocomplete component built with shadcn/ui and Fancy Multi Select by Maximilian Kaske.
