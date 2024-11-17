@@ -3,17 +3,61 @@
 ## My prefered web development Framework
 - [Nextjs](https://nextjs.org/)
 
-## MY prefered Libs and Components
+## CSS and Styling
+- [Tailwind](https://tailwindui.com/)
+
+## Website hosting
+- [Vercel](https://vercel.com/)
+ 
+## Prefered Libs and Components
 - [shadcn-ui](https://ui.shadcn.com/)
 - [origin-ui](https://originui.com/)
 - [magic-ui](https://magicui.design/)
 - [aceternity-ui](https://ui.aceternity.com/)
+- [aceternity-ui](https://ui.aceternity.com/)
+- [hover.dev](https://www.hover.dev/)
+- [motion-primitives](https://motion-primitives.com/)
+- [animata.design](https://animata.design/)
+- [lukacho-ui](https://ui.lukacho.com/)
+- [landingfolio](https://www.landingfolio.com/)
+- [tailblocks](https://tailblocks.cc/#google_vignette)
 
+  
 ## AI and code Generations
 - [V0](https://v0.dev/)
+- [Bard](https://bard.google.com/)
 - [ChatGpt](https://chatgpt.com/)
 - [Bolt Ai](https://bolt.new/)
 
+## Icons 
+- [Lucide react](https://lucide.dev/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+
+## Icons Illustrations  
+- [undraw](https://undraw.co/)
+
+## Lottie Files  
+- [LottieFiles](https://lottiefiles.com/)
+
+## Photos  
+- [Unplash](https://unsplash.com/)
+- [istock](https://www.istockphoto.com/)
+
+
+## Auth  
+- [clerk](https://clerk.com/)
+
+
+## Backend Saas  
+- [convex](https://www.convex.dev/)
+- [supabase](https://supabase.com/)
+
+
+## Learn Typing   
+- [fast fingers](https://10fastfingers.com/)
+
+  
+  
 ## Libs and Components
 - [aceternity-ui](https://ui.aceternity.com/) - Copy paste the most trending react components without having to worry about styling and animations.
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat.
