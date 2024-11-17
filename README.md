@@ -52,7 +52,7 @@
 - [freepik](https://www.freepik.com/)
 - [pngtree](https://pngtree.com/)
 
-## photos to webp  
+## Photos to webp  
 - [anywebp](https://anywebp.com/)
 
 ## Auth  
