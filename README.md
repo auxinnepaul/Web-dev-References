@@ -1,13 +1,13 @@
-# Web-dev-References
+# Web-dev-References 
 
 ## My prefered web development Framework
 - [Nextjs](https://nextjs.org/)
 
 ## CSS and Styling
-- [Tailwind](https://tailwindui.com/)
+- [tailwind](https://tailwindui.com/)
 
 ## Website hosting
-- [Vercel](https://vercel.com/)
+- [vercel](https://vercel.com/)
  
 ## Prefered Libs and Components
 - [shadcn-ui](https://ui.shadcn.com/)
@@ -26,7 +26,6 @@
 - [float-ui](https://floatui.com/)
 - [background](https://bg.ibelick.com/)
 - [preline](https://preline.co/)
-
   
 ## AI and code Generations
 - [V0](https://v0.dev/)
@@ -47,7 +46,7 @@
 ## Photos  
 - [Unplash](https://unsplash.com/)
 - [istock](https://www.istockphoto.com/)
-- [pixbay](hhttps://pixabay.com/)
+- [pixbay](https://pixabay.com/)
 - [pngpix](https://pngpix.com/)
 - [freepik](https://www.freepik.com/)
 - [pngtree](https://pngtree.com/)
@@ -55,20 +54,16 @@
 ## photos to webp  
 - [anywebp](https://anywebp.com/)
 
-  
 ## Auth  
 - [clerk](https://clerk.com/)
-
 
 ## Backend Saas  
 - [convex](https://www.convex.dev/)
 - [supabase](https://supabase.com/)
 
-
 ## Learn Typing   
 - [fast fingers](https://10fastfingers.com/)
 
-  
   
 ## Libs and Components
 - [aceternity-ui](https://ui.aceternity.com/) - Copy paste the most trending react components without having to worry about styling and animations.
