@@ -65,7 +65,7 @@
 - [fast fingers](https://10fastfingers.com/)
 
   
-## Libs and Components
+## More Libs and Components
 - [aceternity-ui](https://ui.aceternity.com/) - Copy paste the most trending react components without having to worry about styling and animations.
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat.
 - [autocomplete-select-shadcn-ui](https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui) - Autocomplete component built with shadcn/ui and Fancy Multi Select by Maximilian Kaske.
