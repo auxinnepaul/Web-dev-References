@@ -20,7 +20,12 @@
 - [animata.design](https://animata.design/)
 - [lukacho-ui](https://ui.lukacho.com/)
 - [landingfolio](https://www.landingfolio.com/)
+- [tailwindFlex](https://tailwindflex.com/)
 - [tailblocks](https://tailblocks.cc/#google_vignette)
+- [kutty](https://kutty.netlify.app/)
+- [float-ui](https://floatui.com/)
+- [background](https://bg.ibelick.com/)
+- [preline](https://preline.co/)
 
   
 ## AI and code Generations
@@ -42,8 +47,15 @@
 ## Photos  
 - [Unplash](https://unsplash.com/)
 - [istock](https://www.istockphoto.com/)
+- [pixbay](hhttps://pixabay.com/)
+- [pngpix](https://pngpix.com/)
+- [freepik](https://www.freepik.com/)
+- [pngtree](https://pngtree.com/)
 
+## photos to webp  
+- [anywebp](https://anywebp.com/)
 
+  
 ## Auth  
 - [clerk](https://clerk.com/)
 
