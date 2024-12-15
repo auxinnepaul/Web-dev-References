@@ -51,6 +51,7 @@
 - [pngpix](https://pngpix.com/)
 - [freepik](https://www.freepik.com/)
 - [pngtree](https://pngtree.com/)
+- [pexels](https://www.pexels.com/)
 
 ## Photos to webp  
 - [anywebp](https://anywebp.com/)
