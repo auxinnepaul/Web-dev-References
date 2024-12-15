@@ -61,6 +61,7 @@
 ## Backend Saas  
 - [convex](https://www.convex.dev/)
 - [supabase](https://supabase.com/)
+- [wix-studio](https://www.wix.com/studio)
 
 ## Learn Typing   
 - [fast-fingers](https://10fastfingers.com/)
