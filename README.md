@@ -34,6 +34,7 @@
 - [Bard](https://bard.google.com/)
 - [ChatGpt](https://chatgpt.com/)
 - [Bolt Ai](https://bolt.new/)
+- [Lovable Ai](https://lovable.dev/)
 
 ## Icons 
 - [Lucide react](https://lucide.dev/)
