@@ -33,8 +33,10 @@
 - [V0](https://v0.dev/)
 - [Bard](https://bard.google.com/)
 - [ChatGpt](https://chatgpt.com/)
+- [DeepSeek](https://chat.deepseek.com/)
 - [Bolt Ai](https://bolt.new/)
 - [Lovable Ai](https://lovable.dev/)
+- [Qwen Chat AI from ALibaba](https://chat.qwenlm.ai/)
 
 ## Icons 
 - [Lucide react](https://lucide.dev/)
