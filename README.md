@@ -73,6 +73,7 @@
 
 ## Learn Typing   
 - [fast-fingers](https://10fastfingers.com/)
+- [Typing Cluub](https://www.edclub.com/)
 
 ## Mobile App Development
 - [react-native](https://reactnative.dev/)
