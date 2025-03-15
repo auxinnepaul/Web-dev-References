@@ -12,6 +12,7 @@
 ## Prefered Libs and Components
 - [shadcn-ui](https://ui.shadcn.com/)
 - [21st.dev](https://21st.dev/)
+- [NS UI](https://nsui.irung.me/)
 - [origin-ui](https://originui.com/)
 - [magic-ui](https://magicui.design/)
 - [aceternity-ui](https://ui.aceternity.com/)
