@@ -40,7 +40,8 @@
 - [Qwen Chat AI from ALibaba](https://chat.qwenlm.ai/)
 - [Tempollabs](https://app.tempolabs.ai/)
 
-- 
+## AI and code Generations
+- [Roadmap](https://roadmap.sh/)
 
 ## Icons 
 - [Lucide react](https://lucide.dev/)
