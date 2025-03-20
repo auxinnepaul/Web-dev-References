@@ -40,7 +40,7 @@
 - [Qwen Chat AI from ALibaba](https://chat.qwenlm.ai/)
 - [Tempollabs](https://app.tempolabs.ai/)
 
-## AI and code Generations
+## Planning
 - [Roadmap](https://roadmap.sh/)
 
 ## Icons 
